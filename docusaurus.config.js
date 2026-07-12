@@ -6,7 +6,7 @@ const config = {
   url: 'https://wbdongithub.github.io',
   baseUrl: '/Flagstaff-Water-Futures-website/',
   organizationName: 'flagstaff-water-group',
-  projectName: 'flagstaff-water-futures website',
+  projectName: 'flagstaff-water-futures-website',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {defaultLocale: 'en', locales: ['en']},
