@@ -1,379 +1,300 @@
 ---
-id: glossary
-title: Glossary of Water Terms
-sidebar_label: Glossary
+title: Water Glossary
 slug: /glossary
+sidebar_position: 2
 ---
 
-# Glossary of Water Terms
+# Water Glossary
 
-This glossary explains terms used throughout **Flagstaff Water Futures**. Definitions are written for a general audience and are intentionally concise. Regulatory definitions may be more specific; where a term has a formal legal meaning, the applicable Arizona or federal rule controls.
+This glossary explains terms used throughout **Flagstaff Water Futures**. It is written for residents, decision-makers, and technical readers who may not work with water systems every day.
+
+> **Working glossary:** These definitions explain how terms are used on this website. Regulatory and legal definitions may be more specific and should be checked against the controlling rule, permit, or agency guidance.
 
 ## A
 
-### Acre-foot (AF)
-A volume of water equal to one acre covered to a depth of one foot, or about **325,851 gallons**. Water-supply planning often uses acre-feet per year.
+**Activated carbon**  
+A highly porous carbon material used to adsorb dissolved organic compounds, taste-and-odor compounds, and some PFAS. It may be used as powdered activated carbon (PAC) or granular activated carbon (GAC).
 
-### Activated carbon (AC)
-A highly porous carbon material used to adsorb many dissolved organic chemicals from water. It may be used as powdered activated carbon (PAC) or granular activated carbon (GAC).
+**Adsorption**  
+The attachment of molecules from water onto the surface of a solid material such as activated carbon or biochar.
 
-### Advanced oxidation process (AOP)
-A treatment process that creates highly reactive chemical species, usually hydroxyl radicals, to break down difficult organic contaminants. Common combinations include ultraviolet light with hydrogen peroxide or ozone.
+**Advanced oxidation process (AOP)**  
+A treatment process that creates highly reactive chemical species, commonly hydroxyl radicals, to destroy organic contaminants. UV light combined with hydrogen peroxide is a common AOP.
 
-### Advanced Water Purification (AWP)
-The term increasingly used in Arizona for the treatment of reclaimed water to a quality suitable for potable use. In this website, AWP and AWT are closely related terms; AWP often refers specifically to potable reuse under a regulatory program.
+**Advanced Water Purification (AWP)**  
+A term used in Arizona for highly treated recycled water purified for potable use.
 
-### Advanced Water Treatment (AWT)
-A multi-barrier treatment approach that goes beyond conventional wastewater treatment to remove pathogens, dissolved salts, trace organic chemicals, and other contaminants. The exact treatment train depends on source-water quality and the intended use.
+**Advanced Water Treatment (AWT)**  
+A multi-barrier treatment approach that goes beyond conventional wastewater treatment to remove pathogens, trace organic chemicals, salts where necessary, and other contaminants.
 
-### Aeration
-The introduction of air or oxygen into water or wastewater. In biological wastewater treatment, aeration supports microorganisms that consume organic matter and nutrients.
+**Aquifer**  
+A body of permeable rock or sediment that stores and transmits groundwater.
 
-### Aquifer
-An underground geologic formation that stores and transmits groundwater in quantities sufficient for wells or springs.
+**Aquifer storage and recovery (ASR)**  
+The intentional recharge or injection of water into an aquifer for later recovery through wells.
 
-### Aquifer recharge
-The movement or intentional placement of water into an aquifer. Recharge may occur naturally or through basins, injection wells, or other facilities.
+**Arizona Department of Environmental Quality (ADEQ)**  
+The Arizona agency responsible for environmental regulation, including drinking water, wastewater, reclaimed water, and advanced water purification permitting.
 
-### Arizona Department of Environmental Quality (ADEQ)
-The state agency responsible for environmental regulation in Arizona, including drinking water, wastewater, reclaimed water, and advanced water purification permits.
+**Arizona Department of Water Resources (ADWR)**  
+The Arizona agency responsible for water-resource management, groundwater regulation, and water-supply planning.
 
-### Arizona Department of Water Resources (ADWR)
-The state agency responsible for water-supply planning, groundwater management, water rights administration, and adequate water-supply designations.
+**Arizona Water Infrastructure Finance Authority (WIFA)**  
+A state organization that administers loans and grants for water, wastewater, conservation, and related infrastructure.
 
 ## B
 
-### Bardenpho process
-A multi-stage biological wastewater-treatment process designed to remove nitrogen and, in some configurations, phosphorus. Rio de Flag Water Reclamation Plant uses a four-stage Bardenpho process.
+**Bardenpho process**  
+A multi-stage biological wastewater-treatment process designed to remove nitrogen and, in some configurations, phosphorus.
 
-### Beneficial reuse
-Using treated wastewater or another recovered resource for a useful purpose, such as irrigation, industrial use, groundwater recharge, or potable reuse.
+**Biochar**  
+A carbon-rich material produced by heating biomass in low-oxygen conditions. Depending on feedstock and processing, it may be used for soil applications, adsorption, or environmental treatment.
 
-### Biochar
-A carbon-rich material made by heating biomass in a low-oxygen environment. Depending on feedstock and processing, biochar may be used for soil improvement, carbon storage, or adsorption of contaminants.
+**Biological activated carbon (BAC)**  
+Activated carbon media that supports both adsorption and biological degradation.
 
-### Biological activated carbon (BAC)
-Granular activated carbon that also supports microorganisms. BAC combines adsorption with biological degradation of some organic contaminants.
+**Biochemical oxygen demand (BOD)**  
+A measure of the oxygen microorganisms consume while degrading biodegradable material in water.
 
-### Brine
-The concentrated waste stream produced by reverse osmosis or another desalination process. Brine contains elevated levels of salts and the contaminants rejected by the membranes.
+**Biosolids**  
+Treated sewage sludge that meets regulatory requirements for disposal or beneficial use.
 
-### Bureau of Reclamation (Reclamation)
-A federal agency within the U.S. Department of the Interior that develops and supports water-supply, reuse, storage, and conveyance projects in the western United States.
+**Brine**  
+A concentrated salt solution. Reverse osmosis produces a brine or concentrate stream containing rejected salts and contaminants.
 
 ## C
 
-### C-aquifer
-The regional Coconino Aquifer, an important groundwater source in northern Arizona and the principal aquifer associated with many Flagstaff-area wells and Red Gap Ranch.
+**C-aquifer**  
+The regional Coconino Aquifer, an important groundwater source for Flagstaff and other northern Arizona communities.
 
-### Capital cost
-The one-time cost of planning, designing, permitting, constructing, and starting a facility or infrastructure system.
+**Chemicals of emerging concern (CECs)**  
+A broad group of chemicals detected in water that may not yet have comprehensive regulatory standards. Examples include pharmaceuticals, hormones, personal-care-product ingredients, and industrial compounds.
 
-### Chemical of emerging concern (CEC)
-A chemical detected in water or the environment that may pose health or ecological concerns but is not necessarily regulated or fully understood. Examples include pharmaceuticals, hormones, personal-care-product ingredients, and some industrial chemicals.
+**Class A+ reclaimed water**  
+Arizona’s highest reclaimed-water class, suitable for many non-potable uses. It is not the same as purified drinking water.
 
-### Class A+ reclaimed water
-A high category of reclaimed water under Arizona rules. It receives extensive treatment and disinfection and is approved for many non-potable uses. Class A+ reclaimed water is **not automatically drinking water**.
+**Concentrate**  
+The reject stream from a membrane process such as reverse osmosis.
 
-### Coagulation and flocculation
-Processes that add chemicals and gentle mixing to cause small suspended particles to join together into larger particles that can be settled or filtered.
+**Conventional wastewater treatment**  
+Treatment typically including screening, solids removal, biological treatment, clarification, and disinfection. It is not designed to remove every trace chemical.
 
-### Concentrate
-Another name for the brine or reject stream produced by membrane treatment such as reverse osmosis.
-
-### Conservation
-Reducing water use or avoiding waste through efficient fixtures, landscaping, pricing, leak control, operational practices, and changes in behavior.
-
-### Contaminant
-A biological, chemical, physical, or radiological substance present in water. The term does not necessarily mean the substance is present at a harmful concentration.
-
-### Contaminant of emerging concern
-See **Chemical of emerging concern (CEC)**.
-
-### Conventional wastewater treatment
-The standard combination of physical, biological, and disinfection processes used to treat municipal wastewater. Conventional treatment is highly effective for solids, biodegradable organic matter, nutrients, and pathogens, but was not designed to remove every trace chemical.
+**Cryptosporidium**  
+A chlorine-resistant protozoan pathogen that can cause gastrointestinal illness.
 
 ## D
 
-### Desalination
-Removal of dissolved salts from water, commonly using reverse osmosis, electrodialysis, or thermal processes.
+**Direct potable reuse (DPR)**  
+The introduction of highly purified recycled water into a drinking-water treatment or distribution system without an environmental buffer such as an aquifer or reservoir.
 
-### Direct potable reuse (DPR)
-Introducing purified reclaimed water into a drinking-water treatment or distribution system without first placing it in a natural environmental buffer such as an aquifer or reservoir. Arizona now commonly uses the term Advanced Water Purification for the broader regulated approach.
-
-### Disinfection
+**Disinfection**  
 Treatment intended to inactivate disease-causing microorganisms. Common methods include chlorine, ultraviolet light, and ozone.
 
-### Dissolved organic carbon (DOC)
-The portion of organic carbon that passes through a fine filter. DOC can affect treatment performance, disinfection byproduct formation, and the behavior of trace contaminants.
+**Disinfection byproducts (DBPs)**  
+Compounds formed when disinfectants react with natural organic matter or other constituents in water.
 
-### Drinking-water distribution system
-The network of pipes, pumps, valves, reservoirs, and tanks that delivers potable water to customers.
+**Drought resilience**  
+The ability of a water system to maintain service during prolonged dry conditions or reduced surface-water availability.
 
 ## E
 
-### Endocrine-disrupting compound (EDC)
-A chemical that can interfere with hormones or hormone-controlled biological processes. Some EDCs have been associated with reproductive effects in fish and other aquatic organisms.
+**Endocrine-disrupting compound (EDC)**  
+A chemical that can interfere with hormone systems. Some EDCs have produced reproductive or developmental effects in aquatic organisms at low concentrations.
 
-### Energy intensity
-The amount of energy required to produce, treat, move, or deliver a unit of water, often expressed in kilowatt-hours per acre-foot or per thousand gallons.
+**Energy intensity**  
+The amount of energy required to produce, treat, or deliver a unit of water.
 
-### Environmental buffer
-An aquifer, reservoir, or other environmental feature used between advanced treatment and potable use. It can provide storage, blending, and additional time for monitoring or response.
-
-### Effluent
-Treated water leaving a wastewater-treatment process or facility.
+**Environmental buffer**  
+A groundwater aquifer, reservoir, or other environmental system placed between advanced treatment and potable use.
 
 ## F
 
-### Flagstaff Water Group (FWG)
-A local educational and advocacy group that supports a comprehensive evaluation of Advanced Water Treatment as part of Flagstaff's long-term water planning.
+**Flagstaff Water Group (FWG)**  
+A local advocacy and education group promoting informed evaluation of Flagstaff’s water future, including serious consideration of AWT.
 
-### Flux
-The rate at which water passes through a membrane per unit of membrane area. Flux affects membrane-system size, pressure, fouling, and energy use.
-
-### Fouling
-Accumulation of particles, biological growth, salts, or organic material on treatment media or membranes, reducing performance and increasing cleaning requirements.
+**Flux**  
+The rate at which water passes through a membrane per unit membrane area.
 
 ## G
 
-### Granular activated carbon (GAC)
-Activated carbon in granular form, typically used in fixed-bed vessels or filters to adsorb organic chemicals, taste-and-odor compounds, and some PFAS.
+**Granular activated carbon (GAC)**  
+Activated carbon in granular form, typically used in fixed beds or contactors to adsorb dissolved contaminants.
 
-### Groundwater
-Water stored beneath the land surface in soil or geologic formations.
-
-### Groundwater mining
-Withdrawal of groundwater faster than it is naturally replenished over the long term, resulting in declining aquifer storage.
+**Groundwater mining**  
+Withdrawal of groundwater faster than it is naturally replenished over the long term.
 
 ## H
 
-### Hardness
-A measure primarily of dissolved calcium and magnesium in water. Hard water can cause scaling but is usually an aesthetic and operational issue rather than a direct health concern.
+**Hardness**  
+The concentration of dissolved calcium and magnesium in water.
 
-### Hydraulic loading
-The volume of water applied to or passing through a treatment process over a given time or surface area.
-
-### Hydraulic retention time (HRT)
-The average time water remains in a tank, reactor, basin, or treatment system.
+**Hydraulic retention time (HRT)**  
+The average time water remains in a tank, reactor, or treatment process.
 
 ## I
 
-### Indirect potable reuse (IPR)
-Purification of reclaimed water followed by placement in an environmental buffer, such as an aquifer or reservoir, before recovery and treatment for drinking-water use.
+**Indirect potable reuse (IPR)**  
+The use of advanced-treated recycled water for drinking after passage through an environmental buffer such as an aquifer or reservoir.
 
-### Influent
-Water or wastewater entering a treatment process or facility.
+**Industrial pretreatment**  
+A regulatory program requiring industrial users to control pollutants before discharging wastewater to the municipal sewer.
 
-### Inflow and infiltration (I&I)
-Stormwater or groundwater that enters a sanitary sewer system through improper connections, cracks, joints, or manholes. I&I can overload wastewater facilities during wet weather.
-
-### Inner Basin
-A seasonal Flagstaff water source consisting of springs and wells near the San Francisco Peaks, connected to the City by the Inner Basin pipeline.
+**Intersex fish**  
+Fish exhibiting both male and female reproductive tissue or characteristics. Such conditions have been documented in some waters affected by wastewater effluent.
 
 ## L
 
-### Life-cycle cost
-The total cost of a project over its useful life, including planning, construction, energy, labor, maintenance, replacement, financing, and disposal.
-
-### Log removal value (LRV)
-A way to express pathogen reduction. One-log removal equals 90% reduction, two-log equals 99%, three-log equals 99.9%, and so on.
+**Log removal value (LRV)**  
+A measure of pathogen reduction. A 1-log reduction is 90%; 2-log is 99%; 3-log is 99.9%.
 
 ## M
 
-### Membrane bioreactor (MBR)
-A wastewater process combining biological treatment with membrane filtration. MBRs produce low-turbidity effluent and can provide a strong foundation for advanced treatment.
+**Membrane bioreactor (MBR)**  
+A wastewater process combining biological treatment with membrane filtration.
 
-### Microfiltration (MF)
-A membrane process that removes suspended solids, many bacteria, and larger particles. It generally does not remove dissolved salts or most small organic molecules.
+**Microfiltration (MF)**  
+A low-pressure membrane process that removes suspended particles and many microorganisms but not most dissolved salts or small organic molecules.
 
-### Microplastics
-Small plastic particles, generally less than five millimeters in size, originating from manufactured particles or the breakdown of larger plastic materials.
-
-### Million gallons per day (MGD)
-A unit of flow equal to one million gallons per day.
-
-### Modular construction
-Building treatment capacity in repeatable units that can be installed in phases as demand and funding increase.
-
-### Multi-barrier treatment
-Using several independent treatment processes so that failure or underperformance of one barrier does not compromise overall public-health protection.
+**Multi-barrier treatment**  
+A treatment philosophy using several independent or complementary processes so that failure of one barrier does not result in loss of public-health protection.
 
 ## N
 
-### Nanofiltration (NF)
-A pressure-driven membrane process with separation characteristics between ultrafiltration and reverse osmosis. It can remove hardness, many organic compounds, and some dissolved salts.
+**Nanofiltration (NF)**  
+A pressure-driven membrane process with removal characteristics between ultrafiltration and reverse osmosis.
 
-### Non-potable reuse
-Use of reclaimed water for purposes other than drinking, such as irrigation, cooling, construction, or industrial processes.
+**Nano-zero-valent iron (nZVI)**  
+Very small particles of elemental iron used for chemical reduction and contaminant treatment.
 
-### Nutrient removal
-Treatment that removes nitrogen and phosphorus to protect receiving waters and support reuse requirements.
+**Natural organic matter (NOM)**  
+Organic material naturally present in source water that can affect treatment performance and disinfection byproduct formation.
 
 ## O
 
-### Operating cost
-Recurring costs required to run a facility, including energy, labor, chemicals, maintenance, monitoring, residuals management, and replacement parts.
+**Online monitoring**  
+Continuous or frequent automated measurement of treatment performance.
 
-### Organic micropollutant
-An organic chemical present at a very low concentration, often measured in micrograms or nanograms per liter. Pharmaceuticals and personal-care-product compounds are common examples.
-
-### Ozone
-A strong oxidant used for disinfection, taste-and-odor control, and destruction of many trace organic compounds.
+**Ozone**  
+A powerful oxidant used for disinfection, taste-and-odor control, and destruction or transformation of many organic contaminants.
 
 ## P
 
-### Pathogen
-A disease-causing microorganism, including certain bacteria, viruses, protozoa, and parasites.
+**Pathogen**  
+A disease-causing microorganism or infectious agent.
 
-### Per- and polyfluoroalkyl substances (PFAS)
-A large family of persistent fluorinated chemicals used in many industrial and consumer products. Some PFAS are regulated in drinking water and can be difficult to remove and destroy.
+**Per- and polyfluoroalkyl substances (PFAS)**  
+A large family of highly persistent fluorinated chemicals used in many industrial and consumer products.
 
-### Permeate
-The treated water that passes through a membrane such as reverse osmosis.
+**Pharmaceuticals and personal care products (PPCPs)**  
+Medicines, fragrances, cosmetics ingredients, and related substances that may enter wastewater through use and disposal.
 
-### Pharmaceutical and personal-care products (PPCPs)
-Medicines, fragrances, cosmetics, sunscreens, and other consumer-product chemicals that can enter wastewater and the environment.
+**Pilot study**  
+A small-scale test used to evaluate treatment performance under local conditions before full-scale design.
 
-### Pilot study
-A small-scale or temporary treatment study used to test performance, operations, and local water-quality conditions before full-scale design.
+**Potable reuse**  
+The intentional use of highly treated recycled water as a drinking-water supply.
 
-### Potable reuse
-The planned use of highly treated reclaimed water as a drinking-water source, either through indirect potable reuse or direct potable reuse.
-
-### Potable water
-Water that meets applicable drinking-water standards and is suitable for human consumption.
-
-### Powdered activated carbon (PAC)
-Fine activated-carbon particles added to water for adsorption of contaminants and then removed by settling, filtration, or another solids-separation process.
-
-### Pretreatment
-Treatment or source-control measures applied before the main treatment process. Industrial pretreatment limits pollutants entering the municipal sewer system.
-
-### Primary treatment
-The first major stage of wastewater treatment, primarily using physical separation to remove settleable and floatable solids.
-
-### Public Safety Power Shutoff (PSPS)
-A planned electric-utility shutdown during extreme wildfire conditions to reduce ignition risk. Such events can affect water wells, pumps, and other infrastructure.
-
-### Pyrolysis
-Heating organic material in a low-oxygen environment to produce gases, liquids, and a carbon-rich solid such as biochar.
+**Powdered activated carbon (PAC)**  
+Finely divided activated carbon added directly to water for adsorption and later removed with solids.
 
 ## R
 
-### Reclaimed water
-Municipal wastewater that has been treated to a quality suitable for specified beneficial uses. Treatment requirements depend on the intended use.
+**Reclaimed water**  
+Wastewater treated for beneficial non-potable use.
 
-### Recovery rate
-The percentage of feed water converted into product water by a treatment process. In reverse osmosis, the remainder becomes concentrate.
+**Red Gap Ranch (RGR)**  
+City-owned property east of Flagstaff being evaluated as a future groundwater source requiring wells, treatment, pumping, and a long transmission pipeline.
 
-### Red Gap Ranch (RGR)
-City-owned property east of Flagstaff intended as a potential future groundwater source. Development would require wells, treatment, pumping stations, and a long transmission pipeline to Flagstaff.
+**Redundancy**  
+Backup capacity or alternate equipment and supplies that allow service to continue when part of a system is unavailable.
 
-### Redundancy
-Backup capacity or alternative equipment and supplies that allow a system to continue operating when a component fails or is unavailable.
-
-### Reliability
-The ability of a water system to provide the required quantity and quality of water consistently under normal, peak, and emergency conditions.
-
-### Residuals
-Solids, brine, spent carbon, sludge, or other materials produced by water and wastewater treatment that require handling, reuse, treatment, or disposal.
-
-### Resilience
-The ability of a system to prepare for, withstand, recover from, and adapt to disruptions such as drought, wildfire, power failure, equipment failure, or regulatory change.
-
-### Reverse osmosis (RO)
-A pressure-driven membrane process that removes most dissolved salts and many trace contaminants. RO produces high-quality permeate and a concentrated brine stream.
+**Reverse osmosis (RO)**  
+A high-pressure membrane process that removes most dissolved salts and many organic contaminants. RO produces purified water and a concentrate stream.
 
 ## S
 
-### Safe Drinking Water Act (SDWA)
-The federal law that authorizes national drinking-water standards and regulates public water systems.
+**Source control**  
+Programs that prevent or reduce contaminants entering a wastewater collection system.
 
-### Secondary treatment
-Biological wastewater treatment following primary treatment. It removes biodegradable organic matter and suspended solids and may also remove nutrients.
-
-### Secondary maximum contaminant level (SMCL)
-A non-enforceable federal guideline for aesthetic qualities such as taste, odor, color, and scaling. Total dissolved solids has a federal secondary guideline of 500 mg/L.
-
-### Source control
-Programs that prevent or limit chemicals and other pollutants from entering the wastewater system. Source control is an important part of potable-reuse planning.
-
-### Specific capacity
-A measure of well productivity, usually expressed as pumping rate divided by drawdown. It indicates how efficiently a well produces water from an aquifer.
-
-### Stormwater
-Water from rain or snowmelt that flows over land, streets, roofs, or other surfaces.
-
-### Surface water
-Water found in lakes, reservoirs, rivers, streams, and springs at or near the land surface.
+**Surface water**  
+Water in lakes, reservoirs, rivers, and streams.
 
 ## T
 
-### Total dissolved solids (TDS)
-The combined concentration of dissolved minerals and salts in water. TDS affects taste, scaling, treatment needs, and reuse-system salt balance.
+**Total dissolved solids (TDS)**  
+The combined concentration of dissolved minerals and salts in water.
 
-### Total organic carbon (TOC)
-A measure of carbon contained in organic compounds in water. TOC is used to evaluate source-water quality, treatment performance, and potential disinfection byproduct formation.
+**Total organic carbon (TOC)**  
+A measure of the total amount of carbon in organic compounds in water.
 
-### Total suspended solids (TSS)
-Particles suspended in water that can be captured by a standard filter. TSS is an important wastewater-treatment and reclaimed-water quality measure.
+**Total suspended solids (TSS)**  
+Particles suspended in water that can be captured by a specified filter.
 
-### Trace organic chemical
-An organic compound present at a very low concentration. The term includes many pharmaceuticals, hormones, industrial chemicals, and personal-care-product ingredients.
-
-### Treatment train
-The ordered sequence of treatment processes used to achieve required water quality and reliability.
-
-### Turbidity
-A measure of water cloudiness caused by suspended particles. Low turbidity is important for effective disinfection and membrane operation.
+**Treatment train**  
+A sequence of treatment processes designed to work together to meet water-quality objectives.
 
 ## U
 
-### Ultrafiltration (UF)
-A membrane process that removes suspended solids, bacteria, protozoa, and many viruses, depending on membrane characteristics. It does not substantially remove dissolved salts.
+**Ultrafiltration (UF)**  
+A membrane process that removes suspended solids, protozoa, bacteria, and many viruses, but not most dissolved salts.
 
-### Ultraviolet (UV) disinfection
-Use of ultraviolet light to inactivate microorganisms by damaging their genetic material.
+**Ultraviolet (UV) disinfection**  
+Use of UV light to damage microbial genetic material and prevent reproduction.
 
-### Upper Lake Mary
-A surface-water reservoir southeast of Flagstaff that can provide a substantial portion of the City's potable water in favorable years.
-
-## V
-
-### Validation
-Documented testing that demonstrates a treatment process can achieve a specified level of pathogen or contaminant removal under defined operating conditions.
-
-### Virus
-A microscopic infectious agent that requires a host cell to reproduce. Viruses are important targets in potable-reuse treatment and log-removal requirements.
+**Upper Lake Mary**  
+A surface-water reservoir south of Flagstaff that supplies a variable portion of the City’s potable water.
 
 ## W
 
-### Water Infrastructure Finance Authority of Arizona (WIFA)
-Arizona's water-financing authority, which administers loans and some grant programs for drinking water, wastewater, conservation, and related infrastructure.
+**Wastewater**  
+Used water collected from homes, businesses, institutions, and industries and conveyed to a treatment facility.
 
-### Water reclamation plant (WRP)
-A wastewater-treatment facility that treats municipal wastewater and produces reclaimed water suitable for permitted reuse or discharge.
+**Water reclamation plant (WRP)**  
+A wastewater-treatment facility that produces treated effluent suitable for discharge or beneficial reuse.
 
-### Water reuse
-Using treated wastewater again rather than discharging it and replacing it with a new water source.
+**Water reuse**  
+The beneficial use of treated wastewater, including non-potable reuse, indirect potable reuse, and direct potable reuse.
 
-### Water year
-A 12-month period used for hydrologic reporting, commonly October 1 through September 30 in the United States.
-
-### Watershed
-The land area that drains precipitation and runoff to a common lake, river, reservoir, or other receiving water.
-
-### Wildcat Hill Water Reclamation Plant
-The larger of Flagstaff's two water reclamation plants and a major source of treated effluent and reclaimed water.
+**Wildcat Hill Water Reclamation Plant**  
+The larger of Flagstaff’s two water reclamation plants and a potential source-water location for future AWT evaluation.
 
 ## Z
 
-### Zero liquid discharge (ZLD)
-A treatment approach that eliminates liquid waste discharge by further concentrating brine and recovering water, leaving solid salts or other residuals. ZLD is technically complex and energy-intensive.
+**Zero liquid discharge (ZLD)**  
+A high-cost treatment approach that recovers nearly all water from a waste stream and leaves solid salts or other residuals for disposal.
 
 ---
 
-## Suggested additions
+## Common acronyms
 
-This glossary should grow with the website. Terms that appear repeatedly in new pages should be added here, while highly specialized terms can be defined directly on the page where they are used.
+| Acronym | Meaning |
+|---|---|
+| ADEQ | Arizona Department of Environmental Quality |
+| ADWR | Arizona Department of Water Resources |
+| AOP | Advanced oxidation process |
+| ASR | Aquifer storage and recovery |
+| AWT | Advanced Water Treatment |
+| AWP | Advanced Water Purification |
+| BAC | Biological activated carbon |
+| CEC | Chemical or contaminant of emerging concern |
+| DPR | Direct potable reuse |
+| EDC | Endocrine-disrupting compound |
+| FWG | Flagstaff Water Group |
+| GAC | Granular activated carbon |
+| IPR | Indirect potable reuse |
+| MBR | Membrane bioreactor |
+| MF | Microfiltration |
+| MGD | Million gallons per day |
+| nZVI | Nano-zero-valent iron |
+| PAC | Powdered activated carbon |
+| PFAS | Per- and polyfluoroalkyl substances |
+| RGR | Red Gap Ranch |
+| RO | Reverse osmosis |
+| TDS | Total dissolved solids |
+| TOC | Total organic carbon |
+| TSS | Total suspended solids |
+| UF | Ultrafiltration |
+| UV | Ultraviolet |
+| WIFA | Water Infrastructure Finance Authority of Arizona |
+| WRP | Water reclamation plant |
+| ZLD | Zero liquid discharge |
