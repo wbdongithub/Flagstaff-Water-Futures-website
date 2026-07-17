@@ -25,6 +25,7 @@ const config = {
         {to: '/red-gap-ranch', label: 'Red Gap Ranch', position: 'left'},
         {to: '/water-quality', label: 'Water Quality', position: 'left'},
         {to: '/library/overview', label: 'Water Library', position: 'left'},
+        {to: '/library/glossary', label: 'Glossary', position: 'left'},
         {to: '/about', label: 'About FWG', position: 'right'},
       ],
     },
