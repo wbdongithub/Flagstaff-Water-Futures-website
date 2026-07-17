@@ -1,6 +1,7 @@
 module.exports = {
   waterLibrary: [
     'overview',
+
     {
       type: 'category',
       label: 'Flagstaff Today',
@@ -10,6 +11,7 @@ module.exports = {
         'future-water-needs',
       ],
     },
+
     {
       type: 'category',
       label: 'The Alternatives',
@@ -19,6 +21,7 @@ module.exports = {
         'comparison-framework',
       ],
     },
+
     {
       type: 'category',
       label: 'Key Issues',
@@ -29,26 +32,12 @@ module.exports = {
         'risk-and-uncertainty',
       ],
     },
-    {
-      type: 'category',
-      label: 'Glossary',
-      collapsed: false,
-      items: [
-        'glossary/overview',
-        'glossary/a-d',
-        'glossary/e-l',
-        'glossary/m-r',
-        'glossary/s-z',
-        'glossary/acronyms',
-        'glossary/units',
-      ],
-    },
+
     {
       type: 'category',
       label: 'Project Resources',
       items: [
         'history',
-        'glossary',
         'sources',
         'questions-to-answer',
       ],
