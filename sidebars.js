@@ -48,7 +48,7 @@ module.exports = {
       label: 'Project Resources',
       items: [
         'history',
-        'glossary'
+        'glossary',
         'sources',
         'questions-to-answer',
       ],
