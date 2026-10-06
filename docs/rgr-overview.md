@@ -7,4 +7,4 @@ RGR is a City-owned groundwater project roughly 35–40 miles east of Flagstaff.
 
 The major unresolved implementation questions include total cost, cost sharing, treatment needs, pumping energy, schedule, pipeline phasing, and inland disposal of RO concentrate if desalting is required.
 
-FWG does not argue that RGR has no role. It argues that its size and long lead time make it especially important to compare it with a phased AWT strategy before the City treats it as the only practical path.
+FWG does not argue that RGR has no role. It argues that its size and long lead time make it especially important to compare it with a phased AWP strategy before the City treats it as the only practical path.
