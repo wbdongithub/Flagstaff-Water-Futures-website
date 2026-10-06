@@ -9,7 +9,7 @@ title: Sources and Notes
 
 ## Flagstaff Water Group
 
-**The AWT Playbook (May 2026).** Used for FWG's position, RGR concerns, AWT rationale, contaminants, biochar research, salt and energy issues, funding concerns, and the request for a renewed comparison.
+**The AWP Playbook (May 2026).** Used for FWG's position, RGR concerns, AWP rationale, contaminants, biochar research, salt and energy issues, funding concerns, and the request for a renewed comparison.
 
 ## Important qualification
 
@@ -17,5 +17,5 @@ Some addenda in the Playbook were generated with ChatGPT and should be treated a
 
 ## Download the working source documents
 
-- [The AWT Playbook (Word)](/downloads/The-AWT-Playbook.docx)
+- [The AWP Playbook (Word)](/downloads/The-AWP-Playbook.docx)
 - [2025 Report to the Water Commission (PDF)](/downloads/2025-Water-Commission-Annual-Report.pdf)
