@@ -16,7 +16,7 @@ module.exports = {
       type: 'category',
       label: 'The Alternatives',
       items: [
-        'awt-overview',
+        'awp-overview',
         'rgr-overview',
         'comparison-framework',
       ],
