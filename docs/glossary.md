@@ -24,7 +24,7 @@ A treatment process that creates highly reactive chemical species, commonly hydr
 **Advanced Water Purification (AWP)**  
 A term used in Arizona for highly treated recycled water purified for potable use.
 
-**Advanced Water Treatment (AWT)**  
+**Advanced Water Purification (AWP)**  
 A multi-barrier treatment approach that goes beyond conventional wastewater treatment to remove pathogens, trace organic chemicals, salts where necessary, and other contaminants.
 
 **Aquifer**  
@@ -110,7 +110,7 @@ A groundwater aquifer, reservoir, or other environmental system placed between a
 ## F
 
 **Flagstaff Water Group (FWG)**  
-A local advocacy and education group promoting informed evaluation of Flagstaff’s water future, including serious consideration of AWT.
+A local advocacy and education group promoting informed evaluation of Flagstaff’s water future, including serious consideration of AWP.
 
 **Flux**  
 The rate at which water passes through a membrane per unit membrane area.
@@ -256,7 +256,7 @@ A wastewater-treatment facility that produces treated effluent suitable for disc
 The beneficial use of treated wastewater, including non-potable reuse, indirect potable reuse, and direct potable reuse.
 
 **Wildcat Hill Water Reclamation Plant**  
-The larger of Flagstaff’s two water reclamation plants and a potential source-water location for future AWT evaluation.
+The larger of Flagstaff’s two water reclamation plants and a potential source-water location for future AWP evaluation.
 
 ## Z
 
@@ -273,7 +273,7 @@ A high-cost treatment approach that recovers nearly all water from a waste strea
 | ADWR | Arizona Department of Water Resources |
 | AOP | Advanced oxidation process |
 | ASR | Aquifer storage and recovery |
-| AWT | Advanced Water Treatment |
+| AWP | Advanced Water Purification |
 | AWP | Advanced Water Purification |
 | BAC | Biological activated carbon |
 | CEC | Chemical or contaminant of emerging concern |
