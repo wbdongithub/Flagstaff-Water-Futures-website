@@ -13,4 +13,4 @@ Wildcat Hill and Rio de Flag treated about 1.97 billion gallons of wastewater in
 
 ## Why these numbers matter
 
-The discharged volume is not a guaranteed AWT supply: seasonal demand, treatment capacity, environmental flows, contracts, and operational constraints must be evaluated. But it is a large local water stream and deserves a formal availability analysis.
+The discharged volume is not a guaranteed AWP supply: seasonal demand, treatment capacity, environmental flows, contracts, and operational constraints must be evaluated. But it is a large local water stream and deserves a formal availability analysis.
