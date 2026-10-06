@@ -17,5 +17,5 @@ Some addenda in the Playbook were generated with ChatGPT and should be treated a
 
 ## Download the working source documents
 
-- [The AWP Playbook (Word)](/downloads/The-AWP-Playbook.docx)
+- [The AWT Playbook (Word)](/downloads/The-AWT-Playbook.docx)
 - [2025 Report to the Water Commission (PDF)](/downloads/2025-Water-Commission-Annual-Report.pdf)
